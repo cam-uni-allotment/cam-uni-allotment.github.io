@@ -1,5 +1,5 @@
 
-## <center>About the Society</center>
+## <center><a name ="about">About the Society</a></center>
 <img src="/IMG_20210905_190139.jpg" width="225" class="left-img"/>
 Blah blah why we exist what we do etc. Just using this filler text for now.
 
