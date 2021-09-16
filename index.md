@@ -17,3 +17,6 @@ Information about any collaborations or projects with charities etc
 
 ## <center>Events</center>
 Social meetups, trips, etc
+
+## <center>Contact</center>
+For any more information, including how to get involved, please contact cam.uni.allotment@gmail.com.
