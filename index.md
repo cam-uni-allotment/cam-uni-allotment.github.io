@@ -7,16 +7,16 @@ An allotment garden (British English),[1] often called simply an allotment, or i
 
 The individual size of a parcel typically suits the needs of a family, and often the plots include a shed for tools and shelter, and sometimes a hut for seasonal or weekend accommodation. The individual gardeners are usually organised in an allotment association, which leases or is granted the land from an owner who may be a public, private or ecclesiastical entity, and who usually stipulates that it be only used for gardening (i.e., growing vegetables, fruits and flowers), but not for permanent residential purposes (this is usually also required by zoning laws). The gardeners have to pay a small membership fee to the association, and have to abide by the corresponding constitution and by-laws. However, the membership entitles them to certain democratic rights.
 
-## <center>College Allotments</center>
+## <center><a name ="colleges"></a>College Allotments</center>
 Here is some information about each college's allotment or gardening society and how to get in touch if you would like to be a part of it! If your college does not have an allotment but you would like to set one up, please get in touch and we can give you some resources and tips on setting one up!
 - <b>Clare Hall</b>: Talk about clare hall allotment!! etc etc - maybe have a separate page for each?? links of who to contact blah blah etc - website/facebook links etc
 Having a full separate page for ech allotment might be too much??
 
-## <center>Collaborations</center>
+## <center><a name ="collabs"></a>Collaborations</center>
 Information about any collaborations or projects with charities etc 
 
-## <center>Events</center>
+## <center><a name ="events"></a>Events</center>
 Social meetups, trips, etc
 
-## <center>Contact</center>
+## <center><a name ="contact"></a>Contact</center>
 For any more information, including how to get involved, please contact cam.uni.allotment@gmail.com.
