@@ -8,8 +8,8 @@ We aim to promote university-wide physical and mental wellbeing, to combat lonel
 
 ## <center><a name ="colleges"></a>College Allotments</center>
 Here is some information about each college's allotment or gardening society and how to get in touch if you would like to be a part of it! If your college does not have an allotment but you would like to set one up, please get in touch and we can give you some resources and tips on setting one up!
-- <b>Clare Hall</b>: Talk about clare hall allotment!! etc etc - maybe have a separate page for each?? links of who to contact blah blah etc - website/facebook links etc
-Having a full separate page for ech allotment might be too much??
+- <b>Clare Hall</b>: See a video about the allotment project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE">here</a>. Contact Sarah at sag66@cam.ac.uk or Claire at cic31@cam.ac.uk to get involved!
+
 
 ## <center><a name ="collabs"></a>Collaborations</center>
 Information about any collaborations or projects with charities etc 
