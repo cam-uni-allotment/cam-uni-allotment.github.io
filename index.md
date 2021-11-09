@@ -22,7 +22,7 @@ Here is some information about each college's allotment or gardening society and
 <details>
   <summary> <b>‣ Clare Hall</b></summary>
   
-  See a video made for the University Wellness Week documenting the progress of the Clare Hall Allotment from its beginnings in 2020 <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah Gough (sag66) or Claire Coffey (cic31) to get involved in the Clare Hall Allotment!
+  See a video made for the University Wellness Festival documenting the progress of the Clare Hall Allotment from its beginnings in 2020 <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah Gough (sag66) or Claire Coffey (cic31) to get involved in the Clare Hall Allotment!
   
 </details>
 
