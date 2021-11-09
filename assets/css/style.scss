@@ -56,8 +56,17 @@ body {
   }
 }
 
-a {
+a.class1 {
   color: #ffffff;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+a.class2 {
+  color: #007d04;
   text-decoration: none;
 
   &:hover {
