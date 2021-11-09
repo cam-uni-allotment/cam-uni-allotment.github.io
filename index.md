@@ -10,15 +10,28 @@ We aim to promote university-wide physical and mental wellbeing, to combat lonel
 Here is some information about each college's allotment or gardening society and how to get in touch if you would like to be a part of it! If your college does not have an allotment but you would like to set one up, please get in touch and we can give you some resources and tips on setting one up!
 <details>
   <summary> <b>‣ Clare Hall</b></summary>
-  
-  The Clare Hall allotment was started in 2019. See a video documenting the progress of the project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah at sag66@cam.ac.uk or Claire at cic31@cam.ac.uk to get involved!
+  The Clare Hall allotment was started in 2019. See a video documenting the progress of the project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah Gough (sag66) or Claire Coffey (cic31) to get involved!
 </details>
 
 <details>
   <summary> <b>‣ Clare </b></summary>
-  The Clare Grower Group is the gardening society in Clare college. Contact Charlotte at ckd25@cam.ac.uk or Joe Landman jl832@cam.ac.uk to get involved!
+  The Clare Grower Group is the gardening society in Clare college. Contact Charlotte Dunn (ckd25) or Joe Landman (jl832) to get involved!
 </details>
 
+<details>
+  <summary> <b>‣ Corpus Christi </b></summary>
+  At Lekhampton site, contact Darius Kos (dgk28) to get involved!
+</details>
+
+<details>
+  <summary> <b>‣ Darwin </b></summary>
+  Contact Meg Groom or Chris Davis to get involved in the DarGar society!
+</details>
+
+<details>
+  <summary> <b>‣ Fitzwilliam </b></summary>
+  At Fitzwilliam, the college gardeners grow produce in the gardens. Contact head gardener Steve Kidger to get involved!
+</details>
 
 <!---
 ## <center><a name ="collabs"></a>Collaborations</center>
