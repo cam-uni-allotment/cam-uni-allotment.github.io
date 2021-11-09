@@ -10,27 +10,65 @@ We aim to promote university-wide physical and mental wellbeing, to combat lonel
 Here is some information about each college's allotment or gardening society and how to get in touch if you would like to be a part of it! If your college does not have an allotment but you would like to set one up, please get in touch and we can give you some resources and tips on setting one up!
 <details>
   <summary> <b>‣ Clare Hall</b></summary>
-  The Clare Hall allotment was started in 2019. See a video documenting the progress of the project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah Gough (sag66) or Claire Coffey (cic31) to get involved!
+  
+  See a video made for University Wellness Week, documenting the progress of the Clare Hall Allotment from its beginnings in 2020 <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah Gough (sag66) or Claire Coffey (cic31) to get involved!
+  
 </details>
 
 <details>
   <summary> <b>‣ Clare </b></summary>
-  The Clare Grower Group is the gardening society in Clare college. Contact Charlotte Dunn (ckd25) or Joe Landman (jl832) to get involved!
+  
+  Contact Charlotte Dunn (ckd25) or Joe Landman (jl832) to get involved in the Clare Grower Group!
+  
 </details>
 
 <details>
   <summary> <b>‣ Corpus Christi </b></summary>
-  At Lekhampton site, contact Darius Kos (dgk28) to get involved!
+  
+  Contact Darius Kos (dgk28) to get involved in the allotment at Lekhampton site!
+  
 </details>
 
 <details>
   <summary> <b>‣ Darwin </b></summary>
+  
   Contact Meg Groom or Chris Davis to get involved in the DarGar society!
+  
 </details>
 
 <details>
   <summary> <b>‣ Fitzwilliam </b></summary>
+  
   At Fitzwilliam, the college gardeners grow produce in the gardens. Contact head gardener Steve Kidger to get involved!
+  
+</details>
+
+<details>
+  <summary> <b>‣ Girton </b></summary>
+  
+  Contact Jules Pye (jpp49) to get involved in the Girton green society!
+  
+</details>
+
+<details>
+  <summary> <b>‣ Girton </b></summary>
+  
+  Contact Moby Wells (mtw42) or Anya Williams (aow24) to get involved in the Gonville and Caius Allotment Society!
+  
+</details>
+
+<details>
+  <summary> <b>‣ Homerton </b></summary>
+  
+  Contact James Burrows (jsb213) to get involved in the Homerton Allotment Society!
+  
+</details>
+
+<details>
+  <summary> <b>‣ Newnham </b></summary>
+  
+  Newnham has two gardening societies: Newnham Allotment Gardeners and Newnham Student Garden Club. Contact the Head Gardener Lottie Collis (head.gardener@newn.cam.ac.uk) to get involved in Newnham Allotment Gardeners. Contact Lily Hands (lah78) or studentgardencommittee@newn.cam.ac.uk to get invovled in the Newnham Student Garden Club, or visit their Facebook page <a href="https://www.facebook.com/search/top?q=newnham%20garden%20club" class="class2">here</a>!
+  
 </details>
 
 <!---
