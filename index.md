@@ -81,7 +81,7 @@ Here is some information about each college's allotment or gardening society and
 <details>
   <summary> <b>‣ Robinson </b></summary>
   
-  Contact Hannah Walters to get involved in the Robinson allotment!
+  Contact Hannah Walters to get involved in the Robinson Gardening Society and find them on Facebook <a href="https://www.facebook.com/groups/robinsonplantingplants/" class="class2">here</a>! 
   
 </details>
 
@@ -109,7 +109,7 @@ Here is some information about each college's allotment or gardening society and
 <details>
   <summary> <b>‣ Wolfson </b></summary>
   
-  Contact Millie Race to get involved in the Wolfson College Student Garden and find them on instagram <a href="https://www.instagram.com/wolfsonstudentgarden/" class="class2">here</a>! 
+  Contact Millie Race (ar2065) to get involved in the Wolfson College Student Garden and find them on instagram <a href="https://www.instagram.com/wolfsonstudentgarden/" class="class2">here</a>! 
   
 </details>
 
