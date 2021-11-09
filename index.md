@@ -11,8 +11,14 @@ Here is some information about each college's allotment or gardening society and
 <details>
   <summary> <b>‣ Clare Hall</b></summary>
   
-  See a video about the allotment project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah at sag66@cam.ac.uk or Claire   at cic31@cam.ac.uk to get involved!
+  The Clare Hall allotment was started in 2019. See a video documenting the progress of the project <a href="https://www.youtube.com/watch?v=ZmPv5DF7_UE" class="class2">here</a>. Contact Sarah at sag66@cam.ac.uk or Claire at cic31@cam.ac.uk to get involved!
 </details>
+
+<details>
+  <summary> <b>‣ Clare </b></summary>
+  The Clare Grower Group is the gardening society in Clare college. Contact Charlotte at ckd25@cam.ac.uk or Joe Landman jl832@cam.ac.uk to get involved!
+</details>
+
 
 <!---
 ## <center><a name ="collabs"></a>Collaborations</center>
