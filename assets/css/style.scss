@@ -64,6 +64,10 @@ a.class1 {
     text-decoration: underline;
     cursor: pointer;
   }
+  &:visited {
+    color: #ffffff;
+    text-decoration: none;
+  }
 }
 
 a.class2 {
@@ -73,6 +77,10 @@ a.class2 {
   &:hover {
     text-decoration: underline;
     cursor: pointer;
+  }
+   &:visited {
+    color: #007d04;
+    text-decoration: none;
   }
 }
 
