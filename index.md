@@ -51,9 +51,9 @@ Here is some information about each college's allotment or gardening society and
 </details>
 
 <details>
-  <summary> <b>‣ Girton </b></summary>
+  <summary> <b>‣ Gonville and Caius </b></summary>
   
-  Contact Moby Wells (mtw42) or Anya Williams (aow24) to get involved in the Gonville and Caius Allotment Society!
+  Contact Moby Wells (mtw42) or Anya Williams (aow24) to get involved in the Gonville and Caius Allotment Society and find them on instagram  <a href="https://www.instagram.com/caiusallotmentsociety/" class="class2">here</a> or Facebook <a href="https://www.facebook.com/groups/612713673066723" class="class2">here</a>!
   
 </details>
 
@@ -67,14 +67,14 @@ Here is some information about each college's allotment or gardening society and
 <details>
   <summary> <b>‣ Newnham </b></summary>
   
-  Newnham has two gardening societies: Newnham allotment gardeners and Newnham student garden club. Contact the head gardener Lottie Collis (head.gardener@newn.cam.ac.uk) to get involved in Newnham Allotment Gardeners. Contact Lily Hands (lah78) or studentgardencommittee@newn.cam.ac.uk to get invovled in the Newnham Student Garden Club, or visit their Facebook page <a href="https://www.facebook.com/search/top?q=newnham%20garden%20club" class="class2">here</a>!
+  Newnham has two gardening societies: Newnham allotment gardeners and Newnham student garden club. Contact the head gardener Lottie Collis (head.gardener@newn.cam.ac.uk) to get involved in Newnham Allotment Gardeners. Contact Lily Hands (lah78) or studentgardencommittee@newn.cam.ac.uk to get invovled in the Newnham Student Garden Club and find them on Facebook <a href="https://www.facebook.com/search/top?q=newnham%20garden%20club" class="class2">here</a>!
   
 </details>
 
 <details>
   <summary> <b>‣ Pembroke </b></summary>
   
-  Contact Maryam Grassly (mg996) to get involved in the Pembroke allotment!
+  Contact Maryam Grassly (mg996) to get involved in the Pembroke College Gardening Society and find them on Facebook <a href=" https://www.facebook.com/groups/609423512751287/" class="class2">here</a>! 
   
 </details>
 
@@ -103,6 +103,13 @@ Here is some information about each college's allotment or gardening society and
   <summary> <b>‣ St John's </b></summary>
   
   Contact the MCR to get involved in the St John's allotment!
+  
+</details>
+
+<details>
+  <summary> <b>‣ Trinity </b></summary>
+  
+  Contact Alessa Weiler or Julia Frieberger to get involved in the Trinity green thumbs vegetable garden!
   
 </details>
 
