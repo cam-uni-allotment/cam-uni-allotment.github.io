@@ -8,8 +8,9 @@ We aim to promote university-wide physical and mental wellbeing, to combat lonel
 
 
 ## <center><a name ="colleges"></a>College Allotments</center>
-<img src="IMG_20210727_175547.jpg" width="250" class="right-img"/>
 Here is some information about each college's allotment or gardening society and how to get in touch if you would like to be a part of it! If your college does not have an allotment but you would like to set one up, please get in touch and we can give you some resources and tips on setting one up!
+<img src="IMG_20210727_175547.jpg" width="250" class="right-img"/>
+
 <details>
   <summary> <b>‣ Clare Hall</b></summary>
   
