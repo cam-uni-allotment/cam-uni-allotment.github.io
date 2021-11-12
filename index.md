@@ -1,4 +1,4 @@
-## <center><a name ="about"></a>About the Society</center>
+## <center><a name ="about"></a><img src="transparent_cam_allotment_logo.png" width="50"> About the Society</img></center>
 <img src="/IMG_20210905_190139.jpg" width="250" class="right-img"/>
 The University of Cambridge Allotment Society was created as an informal space to bring together all those who are involved with their college allotments and create a community. We exchange knowledge, ideas, and seeds, while partnering with local charities, donating surplus produce to community kitchens and food banks. We also host events such as allotment tours, skills fairs, and a harvest festival including a dinner made from our produce! The society is open to everyone, with absolutely no time commitment or knowledge required. If your college does not have an allotment but you wish to start one then we can also provide resources and tips on how to go about doing this. To get involved, join our facebook group, slack channel, or email us at cam.uni.allotment@gmail.com to ask any questions!
 
